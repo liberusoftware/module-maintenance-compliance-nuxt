@@ -1,0 +1,15 @@
+{
+  "repository": "module-maintenance-compliance-nuxt",
+  "capabilityKey": "liberusoftware/module-maintenance-compliance",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-maintenance-compliance-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/maintenance/nextjs/compliance.md",
+  "presentationPlan": "projects/maintenance/nuxt/compliance.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "maintenance"
+  ]
+}
